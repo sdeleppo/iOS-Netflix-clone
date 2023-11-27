@@ -20,6 +20,7 @@
 		28138C9E295B8BBA000A2E5A /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28138C9D295B8BBA000A2E5A /* SearchViewController.swift */; };
 		28138CA0295B8BDB000A2E5A /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28138C9F295B8BDB000A2E5A /* DownloadsViewController.swift */; };
 		28138CA7295CB1D1000A2E5A /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28138CA6295CB1D1000A2E5A /* CollectionViewTableViewCell.swift */; };
+		28138CA9295DF4B7000A2E5A /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28138CA8295DF4B7000A2E5A /* HeroHeaderUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		28138C9D295B8BBA000A2E5A /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		28138C9F295B8BDB000A2E5A /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 		28138CA6295CB1D1000A2E5A /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
+		28138CA8295DF4B7000A2E5A /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 			isa = PBXGroup;
 			children = (
 				28138CA6295CB1D1000A2E5A /* CollectionViewTableViewCell.swift */,
+				28138CA8295DF4B7000A2E5A /* HeroHeaderUIView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				28138C9E295B8BBA000A2E5A /* SearchViewController.swift in Sources */,
 				28138C6D295B8356000A2E5A /* MainTabBarViewController.swift in Sources */,
 				28138CA7295CB1D1000A2E5A /* CollectionViewTableViewCell.swift in Sources */,
+				28138CA9295DF4B7000A2E5A /* HeroHeaderUIView.swift in Sources */,
 				28138CA0295B8BDB000A2E5A /* DownloadsViewController.swift in Sources */,
 				28138C69295B8356000A2E5A /* AppDelegate.swift in Sources */,
 				28138C6B295B8356000A2E5A /* SceneDelegate.swift in Sources */,
